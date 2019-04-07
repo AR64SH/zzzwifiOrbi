@@ -1,2 +1,2 @@
 #!/bin/sh /etc/rc.common
-wifi down
+/sbin/wifi down
