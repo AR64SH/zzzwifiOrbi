@@ -1,0 +1,4 @@
+#!/bin/sh /etc/rc.common
+sleep 150
+killall heartbeat
+/sbin/wifi down
